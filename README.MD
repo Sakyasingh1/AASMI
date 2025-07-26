@@ -19,7 +19,7 @@
 
 ## 🌟 Overview
 
-**AASMI OS** is a revolutionary live operating system that boots in under 30 seconds and runs entirely from USB drives, DVDs, or network boot. Named after "Aasmi", my daughter (limitless in Sanskrit), it embodies boundless computing possibilities while maintaining an ultra-lightweight footprint.
+**AASMI OS** is a live operating system that boots in under 30 seconds and runs entirely from USB drives, DVDs, or network boot. Named after "Aasmi", my daughter (limitless in Sanskrit), it embodies boundless computing possibilities while maintaining an ultra-lightweight footprint.
 
 Perfect for system recovery, portable workspaces, secure browsing, development environments, and educational use.
 
