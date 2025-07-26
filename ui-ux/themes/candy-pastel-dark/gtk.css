@@ -1,0 +1,128 @@
+/* Enhanced Candy Pastel Theme with Animations */
+
+@define-color bg_color #2E2B4F;
+@define-color fg_color #E6E6FA;
+@define-color base_color #3B3A5B;
+@define-color text_color #E6E6FA;
+@define-color selected_bg_color #FF69B4;
+@define-color selected_fg_color #FFFFFF;
+@define-color highlight_color #FF85B8;
+
+/* Window and general styles */
+window, dialog {
+    background-color: @bg_color;
+    color: @fg_color;
+    font-family: 'Fira Sans', sans-serif;
+    transition: all 0.3s ease;
+}
+
+/* Buttons with bounce animation */
+button {
+    background-image: none;
+    background-color: @highlight_color;
+    color: @base_color;
+    border: none;
+    border-radius: 12px;
+    padding: 8px 16px;
+    box-shadow: 0 4px 8px rgba(255, 105, 180, 0.4);
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+button:hover {
+    background-color: lighten(@highlight_color, 10%);
+    box-shadow: 0 6px 12px rgba(255, 105, 180, 0.6);
+    transform: translateY(-2px);
+}
+
+button:active {
+    background-color: darken(@highlight_color, 10%);
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+    transform: translateY(1px);
+}
+
+/* Animated entries */
+entry, textview {
+    background-color: @base_color;
+    color: @text_color;
+    border-radius: 8px;
+    padding: 8px 12px;
+    border: 1px solid @highlight_color;
+    transition: all 0.3s ease;
+}
+
+entry:focus, textview:focus {
+    border-color: @selected_bg_color;
+    box-shadow: 0 0 0 3px alpha(@selected_bg_color, 0.3);
+    transform: scale(1.02);
+}
+
+/* Pulse animation for progress bars */
+progressbar {
+    background-color: @base_color;
+    border-radius: 5px;
+    min-height: 8px;
+}
+
+progressbar progress {
+    background-image: none;
+    background-color: @selected_bg_color;
+    border-radius: 5px;
+    animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+    0% { opacity: 0.8; }
+    50% { opacity: 1; }
+    100% { opacity: 0.8; }
+}
+
+/* Fade-in for tooltips */
+tooltip {
+    background-color: @base_color;
+    color: @fg_color;
+    border-radius: 6px;
+    padding: 8px;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+
+tooltip:active {
+    opacity: 1;
+}
+
+/* Slide-in animation for menus */
+menu {
+    animation: slide-down 0.2s ease-out;
+}
+
+@keyframes slide-down {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Ripple effect for checkboxes and radios */
+check, radio {
+    transition: all 0.2s ease;
+}
+
+check:hover, radio:hover {
+    background-color: alpha(@highlight_color, 0.2);
+}
+
+check:active, radio:active {
+    background-color: alpha(@highlight_color, 0.4);
+}
+
+/* Floating headerbar */
+headerbar {
+    background: linear-gradient(to right, @highlight_color, @selected_bg_color);
+    color: @base_color;
+    border-radius: 0 0 12px 12px;
+    padding: 8px 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+}
+
+headerbar:hover {
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
+}

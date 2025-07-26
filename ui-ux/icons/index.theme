@@ -1,0 +1,10 @@
+[Icon Theme]
+Name=Azure Dark Icons
+Comment=Azure Dark Icon Theme integrated for AASMI OS
+Example=folder
+Directories=48x48/places
+
+[48x48/places]
+Size=48
+Context=Places
+Type=Fixed
