@@ -2,10 +2,10 @@
 ## Always Available System Management Interface
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Build Status](https://img.shields.io/badge/Build-Passing-green.svg)](https://github.com/username/aasmi-os)
-[![Version](https://img.shields.io/badge/Version-1.0.0--alpha-orange.svg)](https://github.com/username/aasmi-os/releases)
-[![Stars](https://img.shields.io/github/stars/username/aasmi-os)](https://github.com/username/aasmi-os/stargazers)
-[![Forks](https://img.shields.io/github/forks/username/aasmi-os)](https://github.com/username/aasmi-os/network)
+[![Build Status](https://img.shields.io/badge/Build-Passing-green.svg)](https://github.com/Sakyasingh1/AASMI/aasmi-os)
+[![Version](https://img.shields.io/badge/Version-1.0.0--alpha-orange.svg)](https://github.com/Sakyasingh1/AASMI/aasmi-os/releases)
+[![Stars](https://img.shields.io/github/stars/username/aasmi-os)](https://github.com/Sakyasingh1/AASMI/aasmi-os/stargazers)
+[![Forks](https://img.shields.io/github/forks/username/aasmi-os)](https://github.com/Sakyasingh1/AASMI/aasmi-os/network)
 
 <div align="center">
   
@@ -69,7 +69,7 @@ Perfect for system recovery, portable workspaces, secure browsing, development e
 
 ```bash
 # Download latest release
-wget https://github.com/username/aasmi-os/releases/latest/aasmi-os.iso
+wget https://github.com/Sakyasingh1/AASMI/aasmi-os/releases/latest/aasmi-os.iso
 
 # Create bootable USB (Linux/macOS)
 sudo dd if=aasmi-os.iso of=/dev/sdX bs=4M status=progress && sync
@@ -113,7 +113,7 @@ sudo dnf install @development-tools cmake git qemu nasm xorriso
 
 ```bash
 # Clone repository
-git clone https://github.com/username/aasmi-os.git
+git clone https://github.com/Sakyasingh1/AASMI/aasmi-os.git
 cd aasmi-os
 
 # Initialize submodules
