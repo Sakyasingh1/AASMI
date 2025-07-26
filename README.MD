@@ -1,5 +1,5 @@
 # AASMI OS
-## Always Available System Management Interface
+## Adaptive Advance System Management Interface
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/Build-Passing-green.svg)](https://github.com/Sakyasingh1/AASMI/aasmi-os)
