@@ -317,12 +317,6 @@ We welcome contributions from developers, designers, testers, and documentation 
 - [ ] Accessibility improvements
 - [ ] Mobile device support
 
-## 🏆 Recognition
-
-- **Open Source Initiative** - Approved MIT License
-- **Linux Foundation** - Community Project Member
-- **GitHub** - Starred by 1000+ developers
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -340,16 +334,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🐛 **Issues**: [GitHub Issues](https://github.com/Sakyasingh1//AASMI/aasmi-os/issues)
 - 📧 **Email**: routsakyasingh@gmail.com
 
-### Stay Updated
-- 🌐 **Website**: [aasmi-os.org](https://aasmi-os.org)
-- 🐦 **Twitter**: [@AasmiOS](https://twitter.com/AasmiOS)
-- 📰 **Blog**: [blog.aasmi-os.org](https://blog.aasmi-os.org)
-- 📺 **YouTube**: [AASMI OS Channel](https://youtube.com/c/AasmiOS)
+
 
 ## 🙏 Acknowledgments
 
 ### Core Team
-- **Lead Developer**: Sakyasingh ROut - Project architecture and kernel development
+- **Lead Developer**: Sakyasingh Rout "https://github.com/Sakyasingh1"  - Project architecture and kernel development
 - **Desktop Team**: UI/UX design and desktop environment
 - **Security Team**: Hardening and privacy features
 - **Testing Team**: Quality assurance and hardware compatibility
