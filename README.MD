@@ -8,7 +8,7 @@
 [![Forks](https://img.shields.io/github/forks/username/aasmi-os)](https://github.com/username/aasmi-os/network)
 
 <div align="center">
-  <img src="docs/assets/aasmi-logo.png" alt="AASMI OS Logo" width="200"/>
+  
   
   **🚀 Ultra-Fast • 🛡️ Secure • 💻 Developer-Ready • 🌐 Always Connected**
   
