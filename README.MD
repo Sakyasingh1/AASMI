@@ -289,28 +289,28 @@ We welcome contributions from developers, designers, testers, and documentation 
 
 ## 🗺️ Roadmap
 
-### Phase 1 - Core System (Q4 2025)
+### Phase 1 - Core System 
 - [x] Bootloader and kernel setup
 - [x] Basic hardware detection
 - [x] Memory management optimization
 - [ ] Core system services
 - [ ] Network stack implementation
 
-### Phase 2 - Desktop Environment (Q1 2026)
+### Phase 2 - Desktop Environment 
 - [ ] AASMI Desktop completion
 - [ ] Window management
 - [ ] File manager with cloud integration
 - [ ] System settings interface
 - [ ] Application launcher
 
-### Phase 3 - Applications (Q2 2026)
+### Phase 3 - Applications 
 - [ ] Web browser optimization
 - [ ] Development tools integration
 - [ ] Media applications
 - [ ] Office suite
 - [ ] Security tools
 
-### Phase 4 - Advanced Features (Q3 2026)
+### Phase 4 - Advanced Features 
 - [ ] ARM architecture support
 - [ ] Advanced security features
 - [ ] Performance optimizations
@@ -336,10 +336,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 💬 Community & Support
 
 ### Get Help
-- 📖 **Documentation**: [docs.aasmi-os.org](https://docs.aasmi-os.org)
-- 💬 **Discord**: [Join our community](https://discord.gg/aasmi-os)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/username/aasmi-os/issues)
-- 📧 **Email**: support@aasmi-os.org
+
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Sakyasingh1//AASMI/aasmi-os/issues)
+- 📧 **Email**: routsakyasingh@gmail.com
 
 ### Stay Updated
 - 🌐 **Website**: [aasmi-os.org](https://aasmi-os.org)
@@ -350,7 +349,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 ### Core Team
-- **Lead Developer**: [Your Name] - Project architecture and kernel development
+- **Lead Developer**: Sakyasingh ROut - Project architecture and kernel development
 - **Desktop Team**: UI/UX design and desktop environment
 - **Security Team**: Hardening and privacy features
 - **Testing Team**: Quality assurance and hardware compatibility
@@ -371,7 +370,7 @@ We're grateful to our sponsors who support AASMI OS development:
 ---
 
 <div align="center">
-  <strong>Named after Aasmi (आस्मि) - meaning "limitless" in Sanskrit</strong><br/>
+  <strong>Named after Aasmi (आस्मि) my daughter - meaning "limitless" in Sanskrit</strong><br/>
   <em>Reflecting our vision of boundless computing possibilities</em>
   
   <br/><br/>
