@@ -1,6 +1,6 @@
 # AASMI OS (Enhanced Version with Candy-Themed UI & Voice Assistant)
 
-**Always Available System Management Interface**
+**Adaptive Advance System Management Interface**
 
 ---
 
