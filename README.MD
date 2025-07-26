@@ -339,7 +339,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 ### Core Team
-- **Lead Developer**: Sakyasingh Rout "https://github.com/Sakyasingh1"  - Project architecture and kernel development
+- **Lead Developer**: Sakyasingh Rout (https://github.com/Sakyasingh1)  - Project architecture and kernel development
 - **Desktop Team**: UI/UX design and desktop environment
 - **Security Team**: Hardening and privacy features
 - **Testing Team**: Quality assurance and hardware compatibility
@@ -351,11 +351,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Beta testers and community contributors
 - All users who provided feedback and bug reports
 
-### Sponsors
-We're grateful to our sponsors who support AASMI OS development:
-- [Sponsor 1] - Cloud infrastructure
-- [Sponsor 2] - Hardware testing
-- [Sponsor 3] - Development tools
+
 
 ---
 
